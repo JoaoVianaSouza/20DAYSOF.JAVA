@@ -33,5 +33,4 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 
 Sinta-se à vontade para me seguir e entrar em contato pelo [LinkedIn](https://www.jetbrains.com/pt-br/idea/download/).
 
-
 </p>
