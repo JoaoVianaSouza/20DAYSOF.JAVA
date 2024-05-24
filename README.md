@@ -13,8 +13,8 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 
 | Dia | Descrição | Nível |
 | --- | --------- | ----- |
-| 1   |Aprendendo um pouco sobre variáveis, operadores, loop for e condicionais           |   Introdutório   |
-| 2   |           |       |
+| ´1´   |Aprendendo um pouco sobre variáveis, operadores, loop for e condicionais           |   Introdutório   |
+| ´2´  |           |       |
 | ... |           |       |
 | 30  |           |       |
 
