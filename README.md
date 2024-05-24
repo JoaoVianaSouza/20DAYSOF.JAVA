@@ -20,17 +20,18 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 
 ## Configurações do Ambiente :wrench:
 
-- Versão do Java: [17.0.11]
-- IDE: [IntelliJ]
+- Versão do Java: [17.0.11](https://www.oracle.com/java/technologies/downloads/)
+- IDE: [IntelliJ](https://www.jetbrains.com/idea/download/?fromIDE=)
 
 ## Como Usar os Códigos Postados :bulb:
 
-1. Instale o [JDK 17.0.11].
-2. Instale o [IntelliJ].
+1. Instale o [JDK 17.0.11](https://www.oracle.com/java/technologies/downloads/).
+2. Instale o [IntelliJ](https://www.jetbrains.com/idea/download/?fromIDE=).
 3. Para iniciar o código, basta clicar com o botão direito sobre a pasta no gerenciador de arquivos e clicar em "Abrir com IntelliJ".
 
 ## Contato :mailbox:
 
-Sinta-se à vontade para me seguir e entrar em contato pelo [LinkedIn].
+Sinta-se à vontade para me seguir e entrar em contato pelo [LinkedIn](https://www.jetbrains.com/pt-br/idea/download/).
+
 
 </p>
