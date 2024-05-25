@@ -4,6 +4,8 @@
 
 Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório para postar minha evolução com a linguagem de programação Java. Ao longo desses 30 dias, irei postar aqui todo o meu aprendizado, meus projetos pessoais e também darei dicas acerca da linguagem. Espero que ajude você a aprender mais sobre Java. :books::rocket:
 
+ :books: Dentro de cada projeto, você poderá visualizar o arquivo "RESUMO DE APRENDIZADO.MD", no qual constará o resumo do que foi aprendido com o programa realizado.
+
 ## Status do Projeto :construction:
 
 - Dia atual: 2
