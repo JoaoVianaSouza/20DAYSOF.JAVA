@@ -39,9 +39,3 @@ Este projeto contém uma série de exercícios de POO em Java, abordando conceit
 ### 🤝 Contribuições
 Sinta-se à vontade para fazer um fork deste projeto e personaliza-lo da forma que achar melhor.
 
-#### Interface `ConversaoFinanceira`
-
-```java
-public interface ConversaoFinanceira {
-    double converterDolarParaReal(double valorDolar);
-} 
