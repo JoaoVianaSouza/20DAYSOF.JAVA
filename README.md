@@ -8,7 +8,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 
 ## Status do Projeto :construction:
 
-- Dia atual: 2
+- Dia atual: 3
 - Status: Em desenvolvimento :hourglass_flowing_sand:
 
 ## Cronograma :calendar:
@@ -16,8 +16,8 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 | Dia | Descrição | Nível |
 | --- | --------- | ----- |
 | `1`   |Aprendendo um pouco sobre variáveis, operadores, loop for e condicionais           |   Introdutório   |
-| `2`  | Progrmação Orientada a Objetos        |  Básico     |
-| `3`  |           |       |
+| `2`  | Progrmação Orientada a Objetos (POO)       |  Básico     |
+| `3`  | Exercícios POO         | Básico      |
 | `4`  |           |       |
 | `5`  |           |       |
 | `6`  |           |       |
