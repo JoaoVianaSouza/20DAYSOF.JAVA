@@ -17,7 +17,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 | --- | --------- | ----- |
 | `1`   |Aprendendo um pouco sobre variáveis, operadores, loop for e condicionais           |   Introdutório   |
 | `2`  | Progrmação Orientada a Objetos (POO)       |  Básico     |
-| `3`  | Exercícios POO         | Básico      |
+| `3`  | Exercícios POO - Interfaces e Classes        | Básico      |
 | `4`  |           |       |
 | `5`  |           |       |
 | `6`  |           |       |
