@@ -39,3 +39,7 @@ Este projeto contém uma série de exercícios de POO em Java, abordando conceit
 ### 🤝 Contribuições
 Sinta-se à vontade para fazer um fork deste projeto e personaliza-lo da forma que achar melhor.
 
+## 🌐 Conecte-se Comigo
+
+Para mais informações ou para acompanhar meu trabalho, siga-me no [LinkedIn](https://www.linkedin.com).
+
