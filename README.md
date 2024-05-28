@@ -18,7 +18,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 | `1`   |Aprendendo um pouco sobre variáveis, operadores, loop for e condicionais           |   Introdutório   |
 | `2`  | Progrmação Orientada a Objetos (POO)       |  Básico     |
 | `3`  | Exercícios POO - Interfaces e Classes        | Básico      |
-| `4`  |           |       |
+| `4`  | Exercício POO          | Básico      |
 | `5`  |           |       |
 | `6`  |           |       |
 
@@ -34,8 +34,8 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 2. Instale o [IntelliJ](https://www.jetbrains.com/idea/download/?fromIDE=).
 3. Para iniciar o código, basta clicar com o botão direito sobre a pasta no gerenciador de arquivos e clicar em "Abrir com IntelliJ".
 
-## Contato :mailbox:
+## 🌐 Conecte-se Comigo
 
-Sinta-se à vontade para me seguir e entrar em contato pelo [LinkedIn](https://www.jetbrains.com/pt-br/idea/download/).
+Para mais informações ou para acompanhar meu trabalho, siga-me no [LinkedIn](https://www.linkedin.com).
 
 </p>
