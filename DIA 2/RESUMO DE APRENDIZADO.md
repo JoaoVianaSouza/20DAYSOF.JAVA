@@ -26,6 +26,9 @@ Este projeto foi desenvolvido para praticar conceitos de Programação Orientada
 
 Ao executar o programa, você verá a saída com o tempo total calculado para os filmes e séries adicionados na classe `Main`:
 
+## 🌐 Conecte-se Comigo
+
+Para mais informações ou para acompanhar meu trabalho, siga-me no [LinkedIn](https://www.linkedin.com).
 
 ### 🤝 Contribuições
 Sinta-se à vontade para fazer um fork deste projeto e personaliza-lo da forma que achar melhor.
