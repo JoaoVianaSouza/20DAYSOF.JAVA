@@ -31,4 +31,5 @@ Sinta-se à vontade para fazer um fork deste projeto e personaliza-lo da forma q
 
 ## 🌐 Conecte-se Comigo
 
-Para mais informações ou para acompanhar meu trabalho, siga-me no [LinkedIn](www.linkedin.com/in/joao-pedro-gonçalves-viana-de-souza-a33a84242).
+Para mais informações ou para acompanhar meu trabalho, siga-me no [LinkedIn](https://www.linkedin.com/in/joao-pedro-gon%C3%A7alves-viana-de-souza-a33a84242/).
+
