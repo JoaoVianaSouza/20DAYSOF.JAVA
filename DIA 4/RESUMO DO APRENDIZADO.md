@@ -21,4 +21,4 @@ Para saber mais sobre conceitos de **POO**, confira os projetos anteriores dispo
 
 ## 🌐 Conecte-se Comigo
 
-Para mais informações ou para acompanhar meu trabalho, siga-me no [LinkedIn](https://www.linkedin.com).
+Para mais informações ou para acompanhar meu trabalho, siga-me no [LinkedIn](www.linkedin.com/in/joao-pedro-gonçalves-viana-de-souza-a33a84242).
