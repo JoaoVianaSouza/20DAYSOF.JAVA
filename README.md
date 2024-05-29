@@ -20,7 +20,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 | `3`  | Exercícios POO - Interfaces e Classes        | Básico      |
 | `4`  | Exercício POO          | Básico      |
 | `5`  | Aprendendo Listas em Java com ArrayList       |   Básico    |
-| `6`  |           |       |
+| `6`  | Aprendendo novos conceitos: Constructor, InstanceOf, Foreach e Casting de objetos          |  Básico     |
 
 
 ## Configurações do Ambiente :wrench:
