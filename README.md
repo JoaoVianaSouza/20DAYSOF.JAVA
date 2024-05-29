@@ -36,6 +36,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 
 ## 🌐 Conecte-se Comigo
 
-Para mais informações ou para acompanhar meu trabalho, siga-me no [LinkedIn](https://www.linkedin.com).
+Para mais informações ou para acompanhar meu trabalho, siga-me no [LinkedIn](https://www.linkedin.com/in/joao-pedro-gon%C3%A7alves-viana-de-souza-a33a84242/).
+
 
 </p>
