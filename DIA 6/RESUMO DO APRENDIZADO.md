@@ -21,7 +21,7 @@ O **Casting de Objetos** é usado para converter um objeto de um tipo para outro
 | Exercício | Conceitos                   Praticados | Como foram Praticados |
 | --- | --- | --- |
 | Exercício_Constructor | Constructor | Foram criados construtores nas classes `Produto` e `ProdutoPerecivel` para inicializar os objetos com nome, preço e quantidade (e data de validade no caso de `ProdutoPerecivel`). |
-| Exercício_InstanceOf | Instance Of | Foi utilizado o InstanceOf para garantir que o objeto `dog` é realmente uma instância da classe `Cachorro`. |
+| Exercício_InstanceOf | Instance Of / Casting| Foi utilizado o InstanceOf para garantir que o objeto `dog` é realmente uma instância da classe `Cachorro`. |
 | Exercício_Foreach | Foreach | Foi utilizado o Foreach para percorrer uma lista de chocolates e calcular o preço médio. |
 
 ## 🌐 Conecte-se Comigo
