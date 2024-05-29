@@ -8,7 +8,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 
 ## Status do Projeto :construction:
 
-- Dia atual: 4
+- Dia atual: 5
 - Status: Em desenvolvimento :hourglass_flowing_sand:
 
 ## Cronograma :calendar:
@@ -19,7 +19,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 | `2`  | Progrmação Orientada a Objetos (POO)       |  Básico     |
 | `3`  | Exercícios POO - Interfaces e Classes        | Básico      |
 | `4`  | Exercício POO          | Básico      |
-| `5`  |           |       |
+| `5`  | Aprendendo Listas em Java          |   Básico    |
 | `6`  |           |       |
 
 
