@@ -2,7 +2,7 @@
 
 ## 📄 Introdução
 
-Hoje, continuei meus estudos sobre Programação Orientada a Objetos (POO) em Java, focando nos conceitos de `Constructor`, `instanceof`, `foreach` e casting de objetos. Abaixo estão os detalhes dos três projetos que desenvolvi, cada um explorando um desses conceitos.
+Hoje, continuei meus estudos sobre Programação Orientada a Objetos (POO) em Java, focando nos conceitos de `Constructor`, `instanceof`, `foreach` e `casting de objetos`. Abaixo estão os detalhes dos três projetos que desenvolvi, cada um explorando um desses conceitos.
 
 ### 🏗️ Constructor
 O **Constructor** é um método especial usado para inicializar objetos. No Java, o construtor é semelhante a um método, mas com algumas diferenças: ele tem o mesmo nome da classe e não tem um tipo de retorno. Nos projetos, foram utilizados construtores para inicializar os objetos das classes.
