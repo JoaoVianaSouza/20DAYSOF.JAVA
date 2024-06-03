@@ -8,7 +8,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 
 ## Status do Projeto :construction:
 
-- Dia atual: 6
+- Dia atual: 7
 - Status: Em desenvolvimento :hourglass_flowing_sand:
 
 ## Cronograma :calendar:
@@ -21,6 +21,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 | `4`  | Exercício POO          | Básico      |
 | `5`  | Aprendendo Listas em Java com ArrayList       |   Básico    |
 | `6`  | Aprendendo novos conceitos: Constructor, InstanceOf, Foreach e Casting de objetos          |  Básico     |
+| `7`  | Aprendendo novos conceitos: Collections, LinkedList, Comparable e ArrayLists         |  Básico     |
 
 
 ## Configurações do Ambiente :wrench:
