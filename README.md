@@ -8,7 +8,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 
 ## Status do Projeto :construction:
 
-- Dia atual: 7
+- Dia atual: 10
 - Status: Em desenvolvimento :hourglass_flowing_sand:
 
 ## Cronograma :calendar:
@@ -16,12 +16,15 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 | Dia | Descrição | Nível |
 | --- | --------- | ----- |
 | `1`   |Aprendendo um pouco sobre variáveis, operadores, loop for e condicionais           |   Introdutório   |
-| `2`  | Progrmação Orientada a Objetos (POO)       |  Básico     |
+| `2`  | Progrmação Orientada a Objetos (POO)       |  Introdutório     |
 | `3`  | Exercícios POO - Interfaces e Classes        | Básico      |
 | `4`  | Exercício POO          | Básico      |
 | `5`  | Aprendendo Listas em Java com ArrayList       |   Básico    |
 | `6`  | Aprendendo novos conceitos: Constructor, InstanceOf, Foreach e Casting de objetos          |  Básico     |
 | `7`  | Aprendendo novos conceitos: Collections, LinkedList, Comparable e ArrayLists         |  Básico     |
+| `8`  |  Consumindo API com Java e Postman      |  Intermediário     |
+| `9`  | Leitura de JSON com Gson e Records em Java         |  Intermediário     |
+| `10`  |  Maven no Java       |  Intermediário     |
 
 
 ## Configurações do Ambiente :wrench:
