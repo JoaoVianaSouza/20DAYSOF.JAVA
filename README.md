@@ -8,7 +8,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 
 ## Status do Projeto :construction:
 
-- Dia atual: 13
+- Dia atual: 14
 - Status: Em desenvolvimento :hourglass_flowing_sand:
 
 ## Cronograma :calendar:
@@ -28,6 +28,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 | `11`  |  Trabalhando com exceções       |  Intermediário     |
 | `12`  |  Projeto (API/MAVEN/GSON/EXCEÇÕES)       |  Intermediário     |
 | `13`  |  Spring Boot + Maven       |  Intermediário     |
+| `14`  |  Novos conceitos (Lambda, Stream, Jackson)       |  Intermediário     |
 
 
 ## Configurações do Ambiente :wrench:
@@ -45,5 +46,5 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 
 Para mais informações ou para acompanhar meu trabalho, siga-me no [LinkedIn](https://www.linkedin.com/in/joao-pedro-gon%C3%A7alves-viana-de-souza-a33a84242/).
 
-
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png)
 </p>
