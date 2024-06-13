@@ -8,7 +8,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 
 ## Status do Projeto :construction:
 
-- Dia atual: 14
+- Dia atual: 15
 - Status: Em desenvolvimento :hourglass_flowing_sand:
 
 ## Cronograma :calendar:
@@ -29,6 +29,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 | `12`  |  Projeto (API/MAVEN/GSON/EXCEÇÕES)       |  Intermediário     |
 | `13`  |  Spring Boot + Maven       |  Intermediário     |
 | `14`  |  Novos conceitos (Lambda, Stream, Jackson)       |  Intermediário     |
+| `15`  |  Projeto (Spring + API + Jackson + Stream + Maven)       |  Intermediário     |
 
 
 ## Configurações do Ambiente :wrench:
