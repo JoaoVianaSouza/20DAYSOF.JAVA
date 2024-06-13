@@ -41,7 +41,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 
 1. Instale o [JDK 17.0.11](https://www.oracle.com/java/technologies/downloads/).
 2. Instale o [IntelliJ](https://www.jetbrains.com/idea/download/?fromIDE=).
-3. Para iniciar o código, basta clicar com o botão direito sobre a pasta no gerenciador de arquivos e clicar em "Abrir com IntelliJ".
+3. Para iniciar o código, basta clonar para a sua máquina utilizando o git ou baixar a pasta direto do github. Após isso, clique com o botão direito sobre a pasta no gerenciador de arquivos e clicar em "Abrir com IntelliJ".
 
 ## 🌐 Conecte-se Comigo
 
