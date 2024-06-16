@@ -1,6 +1,6 @@
 # 🌍 API de Tradução com Java e Spring 🚀
 
-Olá! Hoje eu desenvolvi um projeto utilizando **Java** e **Spring** para implementar uma API de tradução. Este projeto aproveita a biblioteca [LibreTranslate](https://github.com/dynomake/libretranslate-java) para fornecer serviços de tradução de texto de forma eficiente e fácil de usar.
+Olá! Hoje eu desenvolvi um projeto utilizando **Java** para implementar uma API de tradução. Este projeto aproveita a biblioteca [LibreTranslate](https://github.com/dynomake/libretranslate-java) para fornecer serviços de tradução de texto de forma eficiente e fácil de usar.
 
 ## Descrição do Projeto 📜
 
@@ -9,22 +9,13 @@ Este projeto é uma API de tradução que permite traduzir texto de um idioma pa
 ## Tecnologias Utilizadas 🛠️
 
 - **Java**: Linguagem de programação principal utilizada no desenvolvimento do projeto.
-- **Spring Boot**: Framework que facilita a criação de aplicações Java robustas e de alto desempenho.
 - **Maven**: Gerenciador de dependências e ferramenta de automação de build para projetos Java.
-- **Postman**: Utilizado para testar e debugar a API.
 - **LibreTranslate**: Biblioteca responsável pela funcionalidade de tradução.
 
 ## Funcionalidades ✨
 
-- 🌐 Tradução de texto entre diversos idiomas.
-- 🌍 Suporte a múltiplos idiomas.
-- ⚡ Endpoint para realizar traduções de forma rápida e eficiente.
-
-## Endpoints da API 🔗
-
-A API possui os seguintes endpoints:
-
-- `POST /translate` - Traduz o texto fornecido para o idioma desejado.
+- 🌐 Tradução de texto entre 3 idiomas.
+- 🌍 Suporte a múltiplos idiomas caso queira adicionar mais.
 
 ## Como Usar? 🤔
 
