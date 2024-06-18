@@ -31,7 +31,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 | `14`  |  Novos conceitos (Lambda, Stream, Jackson)       |  Intermediário     |
 | `15`  |  Projeto (Spring + API + Jackson + Stream + Maven)       |  Intermediário     |
 | `16`  |  Uso de API de tradução [LibreTranslate](https://github.com/dynomake/libretranslate-java)    |  Intermediário     |
-| `17`  | Projeto Banco de Dados com Spring Boot e PostgreSQL     |  Intermediário     |
+| `17`  | Projeto Banco de Dados com Spring Boot JPA e PostgreSQL     |  Intermediário     |
 | `18`  | Derived Queries     |  Intermediário     |
 
 
