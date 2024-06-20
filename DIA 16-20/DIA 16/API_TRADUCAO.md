@@ -32,5 +32,3 @@ Para mais detalhes e acesso ao código-fonte, visite o repositório no GitHub: [
 ## Conclusão 🎯
 
 Esta API de tradução é um excelente recurso para desenvolvedores que precisam incorporar funcionalidades de tradução em seus projetos. Utilizando tecnologias modernas e uma biblioteca robusta, o projeto garante desempenho e facilidade de uso. Sinta-se à vontade para explorar, contribuir e utilizar em suas aplicações!
-
-📘 **Boa codificação e feliz tradução!** 🎉
