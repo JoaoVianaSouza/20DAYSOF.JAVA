@@ -30,6 +30,6 @@ Para mais informações sobre como configurar a conexão com PostgreSQL, consult
 
 Para executar a aplicação, certifique-se de ter o PostgreSQL instalado e configurado com as propriedades específicas no arquivo `application.properties`. Em seguida, execute a classe `BancoDadosApplication` como uma aplicação Java.
 
-## 🌐 Conecte-se Comigo
+## 🌐 Conecte-se comigo
 
-Para mais informações ou para acompanhar meu trabalho, siga-me no [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin).
+Para saber mais sobre meus estudos e projetos em Java e POO, você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/joao-pedro-gon%C3%A7alves-viana-de-souza-a33a84242/).
