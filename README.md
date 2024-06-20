@@ -8,7 +8,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 
 ## Status do Projeto :construction:
 
-- Dia atual: 18
+- Dia atual: 19
 - Status: Em desenvolvimento :hourglass_flowing_sand:
 
 ## Cronograma :calendar:
@@ -33,6 +33,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 | `16`  |  Uso de API de tradução [LibreTranslate](https://github.com/dynomake/libretranslate-java)    |  Intermediário     |
 | `17`  | Projeto Banco de Dados com Spring Boot JPA e PostgreSQL     |  Intermediário     |
 | `18`  | Derived Queries     |  Intermediário     |
+| `19`  | Aplicação do uso da JPQL em um projeto de cadastro (CRUD) com Spring Boot e PostgreSQL     |  Intermediário     |
 
 
 ## Configurações do Ambiente :wrench:
