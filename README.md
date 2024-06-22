@@ -35,6 +35,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 | `18`  | Derived Queries     |  Intermediário     |
 | `19`  | Aplicação do uso da JPQL em um projeto de cadastro (CRUD) com Spring Boot e PostgreSQL     |  Intermediário     |
 | `20`  | Maven: Aprofundando    |  Intermediário     |
+| `21`  | Projeto Web Java   |  Intermediário     |
 
 
 ## Configurações do Ambiente :wrench:
