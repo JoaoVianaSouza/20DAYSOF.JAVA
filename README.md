@@ -1,6 +1,6 @@
 <p align="center">
 
-# 30 Dias de Código em Java :coffee::computer:
+# 20 Dias de Código em Java :coffee::computer:
 
 Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório para postar minha evolução com a linguagem de programação Java. Ao longo desses 30 dias, irei postar aqui todo o meu aprendizado, meus projetos pessoais e também darei dicas acerca da linguagem. Espero que ajude você a aprender mais sobre Java. :books::rocket:
 
@@ -8,8 +8,7 @@ Olá, mundo! :wave: Meu nome é João Pedro e eu estou criando esse repositório
 
 ## Status do Projeto :construction:
 
-- Dia atual: 21
-- Status: Em desenvolvimento :hourglass_flowing_sand:
+- Status: Finalizado 🔚
 
 ## Cronograma :calendar:
 
